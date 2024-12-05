@@ -1,4 +1,5 @@
-# Chapter 1 
+# Chapter 1: Introducing Flutter and Getting Started
+
 In this chapter, I was introduced to Flutter, its benefits as a cross-platform development framework, and the Dart programming language. I set up my development environment by installing Flutter SDK and configuring Android Studio and VS Code. This foundational step gave me the tools and knowledge to begin my journey in Flutter app development.
 
 The chapter 1 of the Flutter development course provided a comprehensive introduction to Flutter, covering its benefits, installation and setup.
